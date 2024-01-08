@@ -1,0 +1,31 @@
+
+<html>
+<head>
+<title>KONGU ENGINEERING COLLEGE</title></head>
+<body style="background-color:#00ffff;">
+
+<strong>
+<h2 style="text-align:center;color:blue;">STUDENT's DETAILS</h2>
+<form>
+<label>Name:</label><input type="text" placeholder="Enter your name"><br><br>
+<label>Roll No: </label><input type="text" placeholder="Enter roll number"><br><br>
+<label>Gender:</label><input type="radio" name:"GENDER" value="MALE">Male<input type="radio"
+name="GENDER"value="FEMALE">Female<input type="radio"Name="GENDER"
+value="OTHERS">Others<br><br
+<label>DOB:</label><input type="date"><br><br>
+<label>Age:</label><input type="text" placeholder="Enter your age"><br><br>
+<label>Course:</label><input type="radio" name="ENG" value="B.E">B.E<input type="radio" name="ENG" value="B.tech">B.Tech<br><br>
+<label>Branch:</label><select><option name="branch" value="AIDS">AI-DS<option name="branch" value="AI-ML">AI-ML<option name="branch" value="MECH">MECH</select><br><br>
+<label>E-mail:</label><input type="E-mail" placeholder="abc@gmail.com"><br><br>
+<label>Password: </label><input type="password"><br><br>
+<label>Phone Number:</label><input type="text"placeholder="Enter phone number"><br><br>
+<label>Address:</label><textarea name="Address" row="5" column="50"placeholder="Enter your address"></textarea><br><br>
+<input type="submit" name="submit" value="Submit">
+<input type="reset" name="reset" value="Reset">
+</form>
+</strong>
+</body>
+</html>
+</html>
+
+
